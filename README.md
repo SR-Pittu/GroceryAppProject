@@ -80,7 +80,7 @@ A simple iOS application for browsing, searching, and managing grocery items. Us
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/GroceryAppProject.git
+https://github.com/SR-Pittu/GroceryAppProject.git
 ```
 
 2. Open the project in Xcode:
