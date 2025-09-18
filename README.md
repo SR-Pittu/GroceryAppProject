@@ -1,6 +1,27 @@
 # GroceryAppProject
 
-A simple iOS application for browsing, searching, and managing grocery items. Users can log in, sign up, add items to their cart or wishlist, and proceed to checkout with payment options.
+---
+## Table of Contents
+
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [Future Improvements](#future-improvements)
+- [Conclusion](#conclusion)
+
+
+---
+
+## Introduction
+
+
+A simple iOS application for browsing, searching, and managing grocery items. 
+
+Users can log in, sign up, add items to their cart or wishlist, and proceed to checkout with payment options.
 
 ---
 
